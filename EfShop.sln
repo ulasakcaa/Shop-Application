@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfShop", "EfShop\EfShop.csproj", "{76D9E2D2-65EC-4C82-B799-3E8C95F755CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{FA906ADA-892F-40A7-A98C-EF49A50256D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76D9E2D2-65EC-4C82-B799-3E8C95F755CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D9E2D2-65EC-4C82-B799-3E8C95F755CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D9E2D2-65EC-4C82-B799-3E8C95F755CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D9E2D2-65EC-4C82-B799-3E8C95F755CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA906ADA-892F-40A7-A98C-EF49A50256D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA906ADA-892F-40A7-A98C-EF49A50256D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA906ADA-892F-40A7-A98C-EF49A50256D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA906ADA-892F-40A7-A98C-EF49A50256D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {154D29F2-167F-4324-9AEF-C4CA36D2F088}
+	EndGlobalSection
+EndGlobal
